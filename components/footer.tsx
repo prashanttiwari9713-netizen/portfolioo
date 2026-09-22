@@ -28,9 +28,13 @@ export function Footer() {
               className="w-10 h-10 border-2 border-primary/50 rounded-full flex items-center justify-center text-primary hover:bg-primary hover:text-black transition-all hover:shadow-[0_0_10px_rgba(0,255,0,0.5)]"
             >
               <Github className="w-5 h-5" />
-            </a>
-            <a
-              href="#"
+              <a
+  href="https://github.com/prashanttiwari9713-netizen"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+    <Github />
+</a>   
               className="w-10 h-10 border-2 border-primary/50 rounded-full flex items-center justify-center text-primary hover:bg-primary hover:text-black transition-all hover:shadow-[0_0_10px_rgba(0,255,0,0.5)]"
             >
               <Twitter className="w-5 h-5" />
